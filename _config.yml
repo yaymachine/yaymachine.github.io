@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Andi
+name: Shopgrid Testing
 
 # Short bio or description (displayed in the header)
 description: Web Developer from Somewhere
@@ -19,7 +19,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 footer-links:
   dribbble: 
   email: info@mainflow.de
-  facebook: https://www.facebook.com/mainflow.agency
+  facebook: mainflow.agency
   flickr: 
   github: mnfw/mainflow
   instagram: 
